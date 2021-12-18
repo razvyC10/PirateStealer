@@ -1,6 +1,9 @@
+<img src="https://user-images.githubusercontent.com/66573599/146654766-41c1fdd8-9350-415e-87b2-afbfc17da12a.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" align="right" width="70" height="100" />
+
 #### [🔗 Discord Link](https://stealer.re/verify) - [📖 Terms](https://github.com/Stanley-GF/PirateStealer#terms) - [🔨 Builder](https://stealer.re/) - [💎 Premium](https://stealer.re/verify) - [💡 Features](https://github.com/Stanley-GF/PirateStealer#features)
-# PirateStealer
-Official PirateStealer repos
+
+# PirateStealer 
+Official PirateStealer repos 
 
 # What is PirateStealer ? 
 PirateStealer is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
