@@ -8,5 +8,7 @@
 
 # Creator info
 Github: [Stanley-GF](https://github.com/Stanley-GF)
+
 Telegram: stanleygf
+
 Discord ID: 9999999999999
