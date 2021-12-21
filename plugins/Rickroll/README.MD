@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/66573599/146982564-fb2b9196-a05c-47cc-b507-918c188457a6.png" data-canonical-src="https://user-images.githubusercontent.com/66573599/146982564-fb2b9196-a05c-47cc-b507-918c188457a6.png" align="right" width="70" height="100" />
+
 # Rickroll
 ## Funny plugin allowing you to rickroll your victims
 
