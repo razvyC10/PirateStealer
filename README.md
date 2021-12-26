@@ -8,6 +8,11 @@ Official PirateStealer repos
 # What is PirateStealer ? 
 PirateStealer is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
 
+# How to remove PirateStealer ? 
+- [Malware Detector (by Bytixo)](https://github.com/bytixo/Discord-Malware-Detector) (Language: Golang) - US
+- [Discord Cleaner (By Just-Chaka)](https://github.com/Just-Chakal/discordcleaner) (Language: Javascript) - FR
+- [Discord Injection Remover (By Hideaki)](https://github.com/HideakiAtsuyo/Discord-Injections-Remover/) (Language: C#) - US
+
 # Terms
 - [x] You only use it for educational or private purposes.
 - [x] Reselling is forbidden.
