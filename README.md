@@ -12,7 +12,7 @@ PirateStealer is an educational purpose only open-source Discord Malware. With a
 - [Malware Detector (by Bytixo)](https://github.com/bytixo/Discord-Malware-Detector) (Language: Golang) - US
 - [Discord Cleaner (By Just-Chaka)](https://github.com/Just-Chakal/discordcleaner) (Language: Javascript) - FR
 - [Discord Injection Remover (By Hideaki)](https://github.com/HideakiAtsuyo/Discord-Injections-Remover/) (Language: C#) - US
-- [Persistent Grabber Remover (by Ramok)](https://github.com/RamokTVL/PersistantGrabberRemover)
+- [Persistent Grabber Remover (by Ramok)](https://github.com/RamokTVL/PersistantGrabberRemover) (Language: C#) - US
 
 # Terms
 - [x] You only use it for educational or private purposes.
