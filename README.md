@@ -1,4 +1,4 @@
-##### ⚠️ **Please note that we're not turkish, the only official server we have is owned by pro#1337. If it's not, its a scam.**
+##### ⚠️ **Please note that we're not turkish, the only official server we have is owned by st#1337. If it's not, its a scam.**
 ##### 💸 Selling the project, DM me on Twitter: https://twitter.com/stanleytry
 
 <img src="https://user-images.githubusercontent.com/66573599/146654766-41c1fdd8-9350-415e-87b2-afbfc17da12a.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" align="right" width="70" height="100" />
