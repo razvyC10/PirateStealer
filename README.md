@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/66573599/146654766-41c1fdd8-9350-415e-87b2-afbfc17da12a.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" align="right" width="70" height="100" />
 
-#### [🔗 Discord Link](https://piratestealer.to/discord) - [📖 Terms](https://github.com/Stanley-GF/PirateStealer#terms) - [🔨 Builder](https://piratestealer.to/) - [💎 Premium](https://piratestealer.to/discord) - [💡 Features](https://github.com/Stanley-GF/PirateStealer#features)
+#### [🔗 Discord Link](https://discord.gg/XfN7BcbwZG) - [📖 Terms](https://github.com/Stanley-GF/PirateStealer#terms) - [🔨 Builder](https://piratestealer.to/) - [💎 Premium](https://discord.gg/XfN7BcbwZG) - [💡 Features](https://github.com/Stanley-GF/PirateStealer#features)
 
 # PirateStealer 
 Official PirateStealer repos 
